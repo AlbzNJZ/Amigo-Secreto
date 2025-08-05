@@ -17,4 +17,4 @@ Una sencilla aplicación web para hacer el sorteo de amigo secreto de forma ráp
 4. ¡Listo! Disfruta del sorteo.
 ---
 ### Autor
-
+Ig @edualbz
